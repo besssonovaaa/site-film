@@ -1,0 +1,92 @@
+header{
+	height:100px;
+	background-color:#E9E5D8;
+	margin:0;
+	padding:0;
+	}
+	body{
+	border-spacing: 2px;
+	}
+header h1{
+	font-size:200%;
+	margin:0;
+    font-style: normal;
+	padding-right: 110px; 
+    text-align: center;
+    font-family: "Traditional" ;
+    padding-top: 30px;
+	}
+    
+ header p1
+ { 
+    position: absolute;
+width: 61px;
+height: 61px;
+left: 145px;
+top: 26px;
+border-radius: 50%;
+    background: #D9D9D9;
+
+
+font-family: 'Century Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 59px;
+text-align: center;
+
+color: #000000;
+ }	
+ 
+ 
+	content{
+		height:950px;
+		width: 1510px;
+		background:#EED4D3;
+		border-top:#FFFFFF 2px solid;
+		margin:0;
+		padding:0;
+		float:left;
+		}
+		 p2{
+    
+			position: absolute;
+			top: 25%;
+			
+			font-size:150%;
+			padding-left: 600px;
+			font-style: bold;
+			font-family: "Nimbus" ;
+		   s
+		}  
+	
+        @font-face {
+            font-family: "Traditional";  
+            src: url("fonts/Traditional.ttf") format("truetype"); 
+            font-style: normal; 
+            font-weight: normal;
+             }
+             
+            @font-face{
+            font-family: "Segoe";
+            src: url("fonts/Segoe_Script.ttf") format("truetype");
+            font-style: normal; 
+            font-weight: normal; 
+            }
+            @font-face {
+                font-family: "Nimbus";  
+                src: url("fonts/Nimbus_Mono.otf") format("truetype"); 
+                font-style: normal; 
+                font-weight: normal;
+                 }
+
+
+
+footer{
+	height:50px;
+	background:#D4B0BE;
+	border-top:#FFFFFF 2px solid;
+	margin-top:950px;
+	 padding:0; 
+	
+	}
